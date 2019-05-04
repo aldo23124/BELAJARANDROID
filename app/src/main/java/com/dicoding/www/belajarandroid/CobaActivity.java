@@ -3,7 +3,7 @@ package com.dicoding.www.belajarandroid;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class coba extends AppCompatActivity {
+public class CobaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

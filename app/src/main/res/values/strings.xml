@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">belajar tef</string>
+    <string name="forgot_password"><u>Forgot PIN/Password?</u></string>
+    <string name="activate_mtx"><u>Please Activate your M-Tix here </u></string>
+
 </resources>

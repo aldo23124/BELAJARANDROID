@@ -3,12 +3,12 @@ package com.dicoding.www.belajarandroid;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class HomeActivity extends AppCompatActivity {
+public class LoginFacebookActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_home);
-        getSupportActionBar().setTitle("Halaman Home");
+        setContentView(R.layout.activity_login_facebook);
+        getSupportActionBar().hide();
     }
 }
